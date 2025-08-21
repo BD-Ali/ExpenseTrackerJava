@@ -1,0 +1,9 @@
+# Ignore build output
+target/
+
+# Ignore the runtime data file
+expenses.json
+
+# Ignore OS/filesystem cruft
+.DS_Store
+__pycache__/
